@@ -1,5 +1,5 @@
 ---
-title: Tyler G. James
+title: Tyler G. James, Ph.D., CHES
 role: Postdoctoral Research Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include the application of quantitative and mixed
