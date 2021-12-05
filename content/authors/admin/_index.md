@@ -62,4 +62,4 @@ My research has received generous support from:
 * The [Society for Public Health Education’s](http://www.sophe.org/) Student Fellowship in Patient Engagement (09/2018 - 09/2019)
 * The [Agency for Healthcare Research and Quality’s](http://www.ahrq.gov/) R36 Health Services Research Dissertation mechanism (04/2020 - 08/2021)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
